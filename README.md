@@ -21,24 +21,21 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
-  <br>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <br>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
 </p>
 
-<p>
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emregurler&show_icons=true&locale=en&layout=compact" alt="emregurler" />
-</p>
-
-<p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emregurler&show_icons=true&locale=en" alt="emregurler" />
 </p>
 
-<p>
+<h3 align="left">Current Streak:</h3>
+<p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emregurler&" alt="emregurler" />
 </p>
